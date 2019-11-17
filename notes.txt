@@ -1,0 +1,2 @@
+https://codereview.stackexchange.com/questions/194977/using-rotation-of-proxies-within-a-python-script
+https://reviewco.de/frage/web-scraping-durch-ein-rotierendes-proxy-skript
